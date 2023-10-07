@@ -14,9 +14,9 @@
 Todos os certificados adquiridos até agora ajudaram a preencher lacunhas de conhecimento e proporcionaram a mim maior experiência na área de Tecnologia, aumentando meu valor como Tech Writer. 
 1. :small_blue_diamond: **Technical Writing**: Fenestra, 2022;
 2. :small_blue_diamond: **Learn API Technical Writing - Json and XML for Writers**: Udemy, 2022;
-3. :small_blue_diamond:**Hack-a-bot - Desenvolvendo uma aplicação baseada no GPT-3 para melhorar a experiência entre cliente e marca**: Zenvia, 2023;
-4. :small_blue_diamond:**Swagger - Documentando suas APIS**: Alura, 2022;
-5. :small_blue_diamond:**UX Produto - Monitore, mensure e teste o seu projeto**: Alura, 2023.
+3. :small_blue_diamond: **Hack-a-bot - Desenvolvendo uma aplicação baseada no GPT-3 para melhorar a experiência entre cliente e marca**: Zenvia, 2023;
+4. :small_blue_diamond: **Swagger - Documentando suas APIS**: Alura, 2022;
+5. :small_blue_diamond: **UX Produto - Monitore, mensure e teste o seu projeto**: Alura, 2023.
 
 ## Interesses profissionais
 1. :small_orange_diamond: Criar documentações para produtos de desenvolvedor e garantir que sejam consistentes e eficazes; 
