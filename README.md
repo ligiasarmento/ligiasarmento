@@ -1,4 +1,4 @@
-### Olá, sou Lígia Sarmento, formada em Comunicação Social mas agora Technical Writer com experiência em APIs, arquitetura da informação, análise de pesquisas de teste de usabilidade, construções de novos portais e templates de documentações. 👋
+### Olá, sou Lígia Sarmento, formada em Comunicação Social e Technical Writer. :)
   
   <div> 
   <a href="https://instagram.com/sarmentoligia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,10 +29,10 @@ Todos os certificados adquiridos até agora ajudaram a preencher lacunhas de con
 
 ## Experiências
 1. :small_blue_diamond: Portfólio estabelecido em documentação técnica para desenvolvedores de software;
-2. :small_blue_diamond: Documentações em Markdown com ferramentas como Git e StackEdit;
-3. :small_blue_diamond: Elaboração e manutenção de diretrizes em estilo de escrita;
-4. :small_blue_diamond: Desenvolvimento da Arquitetura da Informação para portais de Help Center; 
-5. :small_blue_diamond: Análise de chamados e testes de usabilidade para aprimoramento de documentações;
+2. :small_blue_diamond: Análise de pesquisas de teste de usabilidade, construções de novos portais e templates de documentações;
+3. :small_blue_diamond: Documentações em Markdown com ferramentas como Git e StackEdit;
+4. :small_blue_diamond: Elaboração e manutenção de diretrizes em estilo de escrita;
+5. :small_blue_diamond: Desenvolvimento da Arquitetura da Informação para portais de Help Center; 
 
 ### Extras
 - 📖 Falo sobre Technical Writing e boas práticas de docs de APIs no Linkedin: [Afinal, quem deve escrever uma documentação de API?](https://www.linkedin.com/pulse/afinal-quem-deve-escrever-uma-documenta%2525C3%2525A7%2525C3%2525A3o-de-api-ligia-sarmento%3FtrackingId=4EYoFJMISnu5StzkivjJ7w%253D%253D/?trackingId=4EYoFJMISnu5StzkivjJ7w%3D%3D)
