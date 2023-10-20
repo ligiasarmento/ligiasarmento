@@ -36,5 +36,6 @@ Todos os certificados adquiridos até agora ajudaram a preencher lacunhas de con
 
 ### Extras
 - 📖 Falo sobre Technical Writing e boas práticas de docs de APIs no Linkedin: [Afinal, quem deve escrever uma documentação de API?](https://www.linkedin.com/pulse/afinal-quem-deve-escrever-uma-documenta%2525C3%2525A7%2525C3%2525A3o-de-api-ligia-sarmento%3FtrackingId=4EYoFJMISnu5StzkivjJ7w%253D%253D/?trackingId=4EYoFJMISnu5StzkivjJ7w%3D%3D)
-- 📁 [Confira meu portfólio](https://github.com/ligiasarmento?tab=repositories)
+- 📁 [Confira meu portfólio do Git](https://github.com/ligiasarmento?tab=repositories)
+- 📁 [Artigos para Central de Ajuda](https://zenvia.movidesk.com/kb/pt-br/article/414444/01-veja-os-artigos-disponiveis-zenvia-nlu?menuId=31413-101589-414444&ticketId=&q=)
 
