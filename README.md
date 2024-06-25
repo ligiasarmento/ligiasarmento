@@ -5,7 +5,13 @@
   <a href = "mailto:ligia.tw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ligiassarmento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- > Acredito que mais do que desenvolver e produzir documentações técnicas, meu papel enquanto TW é sobretudo potencializar o relacionamento com a comunidade dev e apoiar nas boas práticas da nossa redação técnica
+ > Technical Writer especializada em documentação de produtos e tecnologias relacionadas à Inteligência Artificial de Conversação, bem como documentação de referência de API. No meu trabalho diário, as minhas responsabilidades incluem:
+
+▪️ Criação e manutenção de documentação técnica detalhada para chatbots e sistemas de IA conversacional.
+
+▪️ Colaboração com desenvolvedores, engenheiros e designers para entender os produtos e seus recursos, garantindo que a documentação seja precisa e útil para os usuários finais e a equipe de desenvolvimento.
+
+▪️ Escrita de tutoriais e guias práticos para ajudar os usuários a implementar e usar efetivamente a IA conversacional.
   
 ### Skills
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Hotjar](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white) ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
